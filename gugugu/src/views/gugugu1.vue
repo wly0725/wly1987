@@ -1,12 +1,14 @@
 <template>
     <div>
-        gugugu项目秀秀
+        <h1>
+            咕咕咕
+        </h1>
     </div>
 </template>
 
 <script>
     export default {
-        name: "gugugu"
+        name: "gugugu1`"
     }
 </script>
 
