@@ -1,8 +1,12 @@
 <template>
-<<<<<<< HEAD
     <div>
         gugugu项目秀秀
     </div>
+	<div>
+		<h1>
+			咕咕咕
+		</h1>
+	</div>
 </template>
 
 <script>
@@ -14,17 +18,4 @@
 <style scoped>
 
 </style>
-=======
-	<div>
-		<h1>
-			咕咕咕
-		</h1>
-	</div>
-</template>
 
-<script>
-</script>
-
-<style>
-</style>
->>>>>>> yf_dev
